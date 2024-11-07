@@ -1,0 +1,2 @@
+another file
+Changed the status of directory
